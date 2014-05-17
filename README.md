@@ -3,6 +3,7 @@ hueman-日本語ファイル
 
 WordPressのhuemanのテーマの日本語ファイルです。
 
+Hueman http://alxmedia.se/themes/hueman/
 Hueman's(WordPress Theme) Japanese language.
 
 Use -- 使い方
